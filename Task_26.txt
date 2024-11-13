@@ -1,0 +1,5 @@
+https://task17.bubbleapps.io/version-test/shipping
+
+https://task17.bubbleapps.io/version-test/checkout
+
+https://task17.bubbleapps.io/version-test/track_order
